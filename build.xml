@@ -1,2 +1,5 @@
 <project>
+    <target name="clean"/>
+    <target name="install"/>
+    <target name="run"/>
 </project>
